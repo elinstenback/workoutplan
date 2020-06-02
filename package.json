@@ -4,6 +4,7 @@
     "description": "Full stack vue and express app",
     "main": "index.js",
     "scripts": {
+        "start": "node server/index.js",
         "test": "node server/index.js",
         "dev": "nodemon server/index.js"
     },
