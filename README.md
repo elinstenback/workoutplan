@@ -1,3 +1,6 @@
+# Workoutplan
+App för att planera sina träningspass.
+
 # client
 
 ## Project setup
